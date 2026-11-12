@@ -1,0 +1,40 @@
+{
+  "original_art": true,
+  "method": "Matplotlib vector shapes and text with Open Images catalog thumbnails",
+  "q1_photo_ids": [
+    "212209eb1b9f5950",
+    "0e8a77476cbcb3a6",
+    "8c47a2f16f2dc283"
+  ],
+  "q1_photo_credits": [
+    {
+      "author": "ToddonFlickr",
+      "title": "0174",
+      "license": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://www.flickr.com/photos/toddneville/3497407627",
+      "changes": "resized for figure; source/thumbnail lineage in catalog.json"
+    },
+    {
+      "author": "buyalex",
+      "title": "Piccard got lei'd and now he's tired.",
+      "license": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://www.flickr.com/photos/buyalex/9792565144",
+      "changes": "resized for figure; source/thumbnail lineage in catalog.json"
+    },
+    {
+      "author": "pulaw",
+      "title": "_MG_0371",
+      "license": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://www.flickr.com/photos/pulaw/7182648693/",
+      "changes": "resized for figure; source/thumbnail lineage in catalog.json"
+    }
+  ],
+  "q1_order": "Example ranking",
+  "q2_example": {
+    "english": "I watch television.",
+    "spanish": "Estoy viendo la televisión.",
+    "split": "validation",
+    "source": "ManyThings/Tatoeba contributors, CC BY 2.0 FR",
+    "note": "Exact supplied validation pair."
+  }
+}

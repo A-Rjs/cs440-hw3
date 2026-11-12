@@ -1,0 +1,67 @@
+{
+  "commit": "fbf7f1bf2041093c4081e72544ec5905ace9dc8f",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 6095,
+      "url": "https://raw.githubusercontent.com/fchollet/deep-learning-with-python-notebooks/fbf7f1bf2041093c4081e72544ec5905ace9dc8f/README.md",
+      "ok": true,
+      "sha256": "85ff1351741b9b81cd6cc89bf64ab66260d6d57a5a4b49c9719fd20200ffd5b6"
+    },
+    {
+      "file": "LICENSE",
+      "bytes": 1082,
+      "url": "https://raw.githubusercontent.com/fchollet/deep-learning-with-python-notebooks/fbf7f1bf2041093c4081e72544ec5905ace9dc8f/LICENSE",
+      "ok": true,
+      "sha256": "7ea567be2f2cc41080442b33147332aabe88bbfc87af3e450150318c654b64f3"
+    },
+    {
+      "file": "second_edition/README.md",
+      "bytes": 4551,
+      "url": "https://raw.githubusercontent.com/fchollet/deep-learning-with-python-notebooks/fbf7f1bf2041093c4081e72544ec5905ace9dc8f/second_edition/README.md",
+      "ok": true,
+      "sha256": "65e4f958e09c04dfd3eeb1eaa12527396b0bdb6f2641801087c13d66a258a026"
+    },
+    {
+      "file": "second_edition/chapter11_part01_introduction.ipynb",
+      "bytes": 18710,
+      "url": "https://raw.githubusercontent.com/fchollet/deep-learning-with-python-notebooks/fbf7f1bf2041093c4081e72544ec5905ace9dc8f/second_edition/chapter11_part01_introduction.ipynb",
+      "ok": true,
+      "sha256": "d94db42edd837d6e60eb7a36e219ac1be32302d8c63cb73fe12ceaed420c3ad7",
+      "cells": 51,
+      "code_cells": 26
+    },
+    {
+      "file": "second_edition/chapter11_part02_sequence-models.ipynb",
+      "bytes": 12860,
+      "url": "https://raw.githubusercontent.com/fchollet/deep-learning-with-python-notebooks/fbf7f1bf2041093c4081e72544ec5905ace9dc8f/second_edition/chapter11_part02_sequence-models.ipynb",
+      "ok": true,
+      "sha256": "3426bd7a5122da27fec5e0a717fbd72480b89f7bbf38562f857fe262bd56d4a9",
+      "cells": 31,
+      "code_cells": 13
+    },
+    {
+      "file": "second_edition/chapter11_part03_transformer.ipynb",
+      "bytes": 12412,
+      "url": "https://raw.githubusercontent.com/fchollet/deep-learning-with-python-notebooks/fbf7f1bf2041093c4081e72544ec5905ace9dc8f/second_edition/chapter11_part03_transformer.ipynb",
+      "ok": true,
+      "sha256": "a4a5a68598a16491de3ab9ebaf9eb76ff321d298603fb624b6c5bc90487b331a",
+      "cells": 25,
+      "code_cells": 8
+    },
+    {
+      "file": "second_edition/chapter11_part04_sequence-to-sequence-learning.ipynb",
+      "bytes": 18936,
+      "url": "https://raw.githubusercontent.com/fchollet/deep-learning-with-python-notebooks/fbf7f1bf2041093c4081e72544ec5905ace9dc8f/second_edition/chapter11_part04_sequence-to-sequence-learning.ipynb",
+      "ok": true,
+      "sha256": "3446d51255005f24b1781f4419034a9aa22f34f6aae16588460542dfc86dded6",
+      "cells": 35,
+      "code_cells": 16
+    }
+  ],
+  "notes": [
+    "Read-only source access check; no course assignment files modified.",
+    "Official companion notebooks contain code/section titles, not book figures or printed listing identifiers.",
+    "Training was not run."
+  ]
+}
